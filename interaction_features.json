@@ -1,0 +1,1 @@
+{"interaction_features": [["n_inpatient", "n_lab_procedures"], ["n_inpatient", "n_medications"], ["n_inpatient", "n_procedures"], ["n_inpatient", "diag_1"], ["n_lab_procedures", "n_medications"], ["n_lab_procedures", "n_procedures"], ["n_lab_procedures", "diag_1"], ["n_medications", "n_procedures"], ["n_medications", "diag_1"], ["n_procedures", "diag_1"]]}
