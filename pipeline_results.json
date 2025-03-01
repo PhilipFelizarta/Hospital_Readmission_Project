@@ -2,5 +2,5 @@
     "Get Labeled Data": "success",
     "Data Preprocessing": "success",
     "Model Training & Store": "success",
-    "Model Deployment and Monitoring": "failed"
+    "Model Deployment and Monitoring": "success"
 }
